@@ -1,0 +1,6 @@
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\bin\Debug\GenerateCode.exe
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\bin\Debug\GenerateCode.pdb
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\obj\Debug\GenerateCode.csproj.AssemblyReference.cache
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\obj\Debug\GenerateCode.csproj.CoreCompileInputs.cache
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\obj\Debug\GenerateCode.exe
+C:\Users\JBR\Desktop\GenerateCode\GenerateCode\obj\Debug\GenerateCode.pdb
